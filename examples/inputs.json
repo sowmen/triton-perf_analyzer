@@ -1,0 +1,5 @@
+{
+  "model": "facebook/opt-125m",
+  "messages": [{ "role": "user", "content": "Who wrote the play Romeo and Juliet?" }],
+  "max_tokens": 32
+}
